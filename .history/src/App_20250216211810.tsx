@@ -3,7 +3,7 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 import { Linkedin, Mail, Phone, ChevronRight, Code, Briefcase, GraduationCap} from 'lucide-react';
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 function App() {
   // const [count, setCount] = useState(0)
 
